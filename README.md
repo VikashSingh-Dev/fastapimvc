@@ -4,5 +4,14 @@ A FastAPI template for info2602 students based on the [fullstack fastapi templat
 
 ## Service repository pattern
 
+- this is a bullet point
 
+1. ordered bullet point 
 
+`code`
+
+```python
+   print("Hello")
+```
+
+> a block quote
